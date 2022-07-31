@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q16 {
 
     private static final String[] DAYS_OF_WEEK = {

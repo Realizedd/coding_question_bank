@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q15 {
     
     public String solution(String[] seoul) {

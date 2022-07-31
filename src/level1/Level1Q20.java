@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q20 {
 
     public int solution(int[] d, int budget) {

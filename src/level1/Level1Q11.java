@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q11 {
 
     public boolean solution(int x) {

@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q22 {
 
     public double solution(int[] arr) {

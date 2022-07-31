@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q30 {
 
     private boolean canLend(int lenderNum, int borrowerNum) {

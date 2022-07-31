@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q32 {
 
     public long solution(long n) {

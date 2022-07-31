@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q24 {
 
     public int[][] solution(int[][] arr1, int[][] arr2) {

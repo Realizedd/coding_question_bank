@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q25 {
 
     public long[] solution(int x, int n) {

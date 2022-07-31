@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q28 {
 
     public String solution(int n) {

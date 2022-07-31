@@ -1,3 +1,4 @@
+package level1;
 public class Level1Q21 {
 
     // See https://leetcode.com/problems/count-primes for methods of optimization
